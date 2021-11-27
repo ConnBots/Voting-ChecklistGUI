@@ -12,4 +12,5 @@ This is a simple checklist GUI that ive decided to make for my media class origi
 
 # Information 
    1. Installation 
-There are currently **2** supported platforms, to download one or both, go to the [releases](https://github.com/ConnBots/Voting-ChecklistGUI/releases) Section and find your deticated platform. Instalation instructions will be in the description of each release.  
+
+⋅⋅⋅There are currently **2** supported platforms, to download one or both, go to the [releases](https://github.com/ConnBots/Voting-ChecklistGUI/releases) Section and find your deticated platform. Instalation instructions will be in the description of each release.  
