@@ -2,6 +2,6 @@
 
 A Simple Checklist GUI. 
 
-To coustomize this gui, go into the script and change the "group" headers.
-
-A **Java** and **HTML5** Version will be released at different times for computers that dont support python. 
+**Current Versions:**
+HTML5: [v.0.0.1-alpha-HTML5](https://github.com/ConnBots/PythonVoting-ChecklistGUI/releases/tag/v.0.0.1-Alpha-HTML5)
+Python: [v.0.0.1-alpha](https://github.com/ConnBots/PythonVoting-ChecklistGUI/releases/tag/v.0.0.1-Alpha)
