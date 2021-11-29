@@ -17,9 +17,9 @@ The **Main** supported version is the Python releases. HTML5 Is still currently 
 
    There are currently **2** supported platforms, to download one or both, go to the [releases](https://github.com/ConnBots/Voting-ChecklistGUI/releases) Section and find your deticated platform. Instalation instructions will be in the description of each release.  
 
-###### Editing the script. 
+ ###### Editing the script. 
 
-    2. Editing Group Names (Python) 
+   2. Editing Group Names (Python) 
 
    Currently, it is reccommended you do not mess with the names in the code, but if you would like to, heres how you do it. 
 
